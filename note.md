@@ -1,3 +1,4 @@
+
 ### 二分查找
 ```python
 import math
